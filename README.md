@@ -9,6 +9,7 @@ Projeto da matéria de Códigos de Alta Performance Web. Criação de um site de
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
+* Javascript
 
 ## :soon: Implementação futura
 * Projeto poderá sofrer alterações.
