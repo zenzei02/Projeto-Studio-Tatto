@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Studio Tatto</h1>
+<h1 align="center">:file_cabinet: Traços Studio Tatto</h1>
 
 ## :memo: Descrição
 Projeto da matéria de Códigos de Alta Performance Web. Criação de um site de tatuagens.
